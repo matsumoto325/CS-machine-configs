@@ -1,6 +1,8 @@
 
 # Configuring VMs in mdx with Ansible
 
+[![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/RCOSDP/CS-machine-configs/HEAD)
+
 This git repository provides an [Ansible](https://www.ansible.com/)
 playbook and roles to configure multiple virtual machines in mdx.
 
