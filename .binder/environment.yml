@@ -1,1 +1,8 @@
-
+name: "#repo2docker#python=3.12.*,r-base=4.4.*"
+channels:
+- conda-forge
+dependencies:
+- pandas
+- numpy
+- python==3.12.*
+- r-base==4.4.*
